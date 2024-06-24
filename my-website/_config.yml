@@ -31,11 +31,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gwzo-weedata.info" # the base hostname & protocol for your site
 permalink: /:categories/:title/
 
-'''
+
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+#theme: minima
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -56,4 +56,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-'''

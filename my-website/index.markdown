@@ -9,9 +9,9 @@ title: "Home"
 <div class="page__header bg--primary">
     <div class="container-fluid">
         <div class="page__header-content">
-            <h1 class="page__title">„No wobble!“<br/>„Нет вобле!”</h1>
-            <p class="page__teaser">Russian anonymous street art against war 2022/23 – A virtual exhibition</p>
-            <p class="page__teaser">Уличное антивоенное анонимное искусство в России 2022/23 – Виртуальная выставка</p>
+            <h1 class="page__title">„Exhibition Title”</h1>
+            <p class="page__teaser">A virtual exhibition</p>
+            <p class="page__teaser">foreign text</p>
         </div>
     </div>
     <figure class="page__bg-image">
@@ -22,7 +22,7 @@ title: "Home"
     <div class="section__body">
         <div class="container-fluid">
             <div class="text__content editor-content">
-                <p class="p">In March 2022, the author of the exhibition idea, Alexandra Arkhipova, asked the subscribers of her Telegram-channel "(Non)entertaining anthropology" (https://t.me/anthro_fun) to send examples of anonymous anti-war street art, on the condition that they had personally seen the pictured object...</p>
+                <p class="p">exhibition idea </p>
             </div>
         </div>
     </div>
